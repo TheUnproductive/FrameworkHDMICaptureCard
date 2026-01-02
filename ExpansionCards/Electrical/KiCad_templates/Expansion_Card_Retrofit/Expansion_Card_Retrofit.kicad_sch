@@ -6563,76 +6563,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 74.93 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ebd665d-944b-4440-8333-bd6120a8f06f")
-		(property "Reference" "C4"
-			(at 77.47 43.1862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_Small"
-			(at 77.47 45.7262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 74.93 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 74.93 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "43134b4f-8f0e-4d06-93e7-064336c18e61")
-		)
-		(pin "2"
-			(uuid "2cb00688-336a-429e-b569-cf17e4284466")
-		)
-		(instances
-			(project "Expansion_Card_Retrofit"
-				(path "/76e3fa71-3810-4fab-9241-55c73dce21a8"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 85.09 133.35 0)
 		(unit 1)
@@ -8004,76 +7934,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 100.33 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b04b2cbb-7139-44d6-9d89-839f9ec0fcb5")
-		(property "Reference" "C6"
-			(at 102.87 43.1862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_Small"
-			(at 102.87 45.7262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 100.33 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 100.33 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 100.33 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4573e63e-1106-4c1f-b503-ec409825a46c")
-		)
-		(pin "1"
-			(uuid "652c392f-1d7f-4b43-b235-2038f7e6bcd1")
-		)
-		(instances
-			(project "Expansion_Card_Retrofit"
-				(path "/76e3fa71-3810-4fab-9241-55c73dce21a8"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 210.82 60.96 0)
 		(unit 1)
@@ -8558,7 +8418,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Video:HDMI_A_Molex_208658-1001_Horizontal"
+		(property "Footprint" "Connector_Video:HDMI_A_Amphenol_10029449-x01xLF_Horizontal"
 			(at 211.455 99.06 0)
 			(effects
 				(font
@@ -8655,76 +8515,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 113.03 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ddf6b6b2-b8d0-478d-8d4b-31b52db1c607")
-		(property "Reference" "C7"
-			(at 115.57 43.1862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_Small"
-			(at 115.57 45.7262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 113.03 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 113.03 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "31ff96d5-3322-4a9f-b45a-a0ecfd7e3a9b")
-		)
-		(pin "2"
-			(uuid "fae10dca-bc94-4618-89bc-46edec358c2e")
-		)
-		(instances
-			(project "Expansion_Card_Retrofit"
-				(path "/76e3fa71-3810-4fab-9241-55c73dce21a8"
-					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 38.1 170.18 0)
 		(unit 1)
@@ -8785,76 +8575,6 @@
 			(project ""
 				(path "/76e3fa71-3810-4fab-9241-55c73dce21a8"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 87.63 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e5505011-5014-4e49-a22b-1301a048d29e")
-		(property "Reference" "C5"
-			(at 90.17 43.1862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_Small"
-			(at 90.17 45.7262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 87.63 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 87.63 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2ac3bffe-6225-4e47-8dbc-3903dcd2ebdb")
-		)
-		(pin "2"
-			(uuid "b4d8d271-6b10-4788-b094-7ed3cf1949e2")
-		)
-		(instances
-			(project "Expansion_Card_Retrofit"
-				(path "/76e3fa71-3810-4fab-9241-55c73dce21a8"
-					(reference "C5")
 					(unit 1)
 				)
 			)
