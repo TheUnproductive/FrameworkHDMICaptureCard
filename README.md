@@ -1,6 +1,6 @@
 > [!Warning]
 >
-> Content is not proven and suject to change without notice! Send to fab at your own risk. 
+> Content is not proven and subject to change without notice! Send to fab at your own risk. 
 
 
 This Project aims to bring a native HDMI Capture Card to the Framework architecture.
